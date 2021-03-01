@@ -1,0 +1,17 @@
+header 
+{ 
+background-color:#357EC7;
+color: white; 
+}
+#menu { float: right ;}
+#cart {float: right;}
+footer { background-color: gray;
+height: 20;}
+#button li {
+	float: right;
+	list-style: none;
+	display: inline;
+   margin-right: 30px;
+   width: 150px;
+   line-height: 60px;
+}

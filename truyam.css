@@ -1,0 +1,19 @@
+.container{
+    background-color:transparent!important; 
+    background-color:#008080;
+}
+.menu {
+	float: right;
+	text-align: right
+	margin-right: 30px;
+   width: 150px;
+   line-height: 60px;;
+}
+.table { text-align: left; }
+header { background-color:#357EC7;
+color: white; }
+
+h2 { text-align: left; }
+p {text-align: left;}
+footer { background-color: gray;
+height: 20;}
